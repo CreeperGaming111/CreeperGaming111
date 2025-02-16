@@ -4,7 +4,7 @@
 
 💻 I'm a SCP:SL Server host.
 
-📚 Programing starter.
+📚 Programming starter.
 
 📫 How to reach me: Discord distroy__ (Distroy) Please do not add or message me for no reason.
 
