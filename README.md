@@ -2,7 +2,7 @@
 
 🎮 I like playing SCP:SL and other games.
 
-💻 I'm a SCP:SL Server host.
+💻 I'm not working on anything right now.
 
 📚 Starter in C++, C# and Java.
 
